@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "482726917976",
+    "firebase_url": "https://clase-albert-default-rtdb.firebaseio.com",
+    "project_id": "clase-albert",
+    "storage_bucket": "clase-albert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482726917976:android:fbcc0e19c5fd3c068f972d",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRuHzA4rojfBhKt2qF-8lkf2gYPKUUzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
